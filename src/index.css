@@ -35,7 +35,7 @@ body {
   .header {
     width: 100%;
     height: 30%;
-    background: url("./assets/IMG/Fondo-pantalla-iphone-XS2.png");
+    background: url("./IMG/Fondo-pantalla-iphone-XS2.png");
     background-size: cover;
     border-bottom: 4px solid #d37ec6;
     display: flex;
